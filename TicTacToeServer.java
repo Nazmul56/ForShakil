@@ -28,6 +28,9 @@ import java.net.Socket;
  * players to play.
  */
 public class TicTacToeServer {
+	
+	//Shakil
+	int nazmul= 10;
 
     /**
      * Runs the application. Pairs up clients that connect.
